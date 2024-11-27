@@ -1,0 +1,23 @@
+---
+title: Projects
+---
+
+## DREAMS-PD trial
+
+<img src="APDA.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2210.07278" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/MetaUncertaintyPaper" target="_blank">Code</a><br>
+
+I am currently leading the Dreams-PD trial, a groundbreaking study focused on the impact of sleep disorders in patients with Parkinson’s disease. This trial seeks to explore innovative ways to address sleep disturbances, which are prevalent in this population and significantly affect quality of life. By investigating novel therapeutic interventions, the Dreams-PD study aims to enhance both motor and non-motor outcomes for Parkinson’s patients, offering hope for better management of this complex, progressive disease. Our findings will provide valuable insights into the interconnectedness of sleep and neurodegeneration, potentially influencing future treatment approaches for Parkinson’s disease and other neurodegenerative disorders.
+
+----
+
+## Recent Publication in Parkinsonism and Related Disorders (PRD)
+
+<img src="TS.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+<a href="https://arxiv.org/abs/2112.08866" target="_blank">arXiv Preprint</a> | <a href="https://github.com/marvinschmitt/ModelMisspecificationBF" target="_blank">Code</a><br>
+
+I recently published a study in Parkinsonism and Related Disorders (PRD) where I applied TMS-EEG (transcranial magnetic stimulation combined with electroencephalography) to explore the neurophysiological mechanisms underlying Tourette syndrome. This study provides novel insights into the brain’s cortical excitability and connectivity in individuals with Tourette's, shedding light on the neurobiological basis of tics and the potential for targeted therapies. By utilizing TMS-EEG, we were able to examine real-time brain activity and assess how different neural networks may contribute to the clinical manifestations of Tourette syndrome. The findings open up new possibilities for developing more effective, personalized treatment strategies for patients suffering from this complex disorder.
+
+
